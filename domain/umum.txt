@@ -1,0 +1,17 @@
+com
+net
+org
+info
+biz
+shop
+site
+edu
+tech
+design
+online
+website
+local
+tokyo
+xyz
+club
+guru

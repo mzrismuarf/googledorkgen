@@ -1,0 +1,8 @@
+id
+co.id
+go.id
+ac.id
+sch.id
+desa.id
+or.id
+desa.id

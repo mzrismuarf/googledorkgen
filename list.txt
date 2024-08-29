@@ -1,0 +1,6 @@
+# example list
+
+admin
+administrator
+file
+
