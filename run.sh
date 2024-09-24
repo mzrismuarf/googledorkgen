@@ -29,13 +29,13 @@ Add custom dorks according to your creativity to get a fresh website \U0001F600
 echo -e "$ascii_art"
 echo "Menu:"
 echo "[1] Domain ID"
-echo "[2] Domain Umum"
+echo "[2] Domain Other"
 echo "[3] Domain Country"
 read -p "[?] Choose an option: " menu_choice
 
 case $menu_choice in
   1) domain_file="domain/id.txt";;
-  2) domain_file="domain/umum.txt";;
+  2) domain_file="domain/other.txt";;
   3) domain_file="domain/country.txt";;
   *) echo -e "\033[31m[!] Invalid choice, bro!\033[0m"; exit 1;;
 esac
